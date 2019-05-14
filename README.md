@@ -8,6 +8,6 @@ pkg install curl
 
 cd oxygen
 
-chmod +x oxygen.sh
+chmod +x OXYGEN.sh
 
 sh OXYGEN.sh
