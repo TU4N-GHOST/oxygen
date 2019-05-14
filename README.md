@@ -10,4 +10,4 @@ cd oxygen
 
 chmod +x oxygen.sh
 
-./oxygen.sh
+sh OXYGEN.sh
